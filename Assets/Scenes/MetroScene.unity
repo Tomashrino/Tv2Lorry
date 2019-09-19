@@ -11024,7 +11024,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!95 &2141574781
 Animator:
   serializedVersion: 3
@@ -11071,6 +11071,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: MetroTrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 6260477532223310935, guid: cbb5c61bf9358f044b9b4bc18456d08e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6755232355735248130, guid: cbb5c61bf9358f044b9b4bc18456d08e,
         type: 3}
@@ -11148,11 +11153,6 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6573921100168182261, guid: cbb5c61bf9358f044b9b4bc18456d08e,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6260477532223310935, guid: cbb5c61bf9358f044b9b4bc18456d08e,
         type: 3}
       propertyPath: m_IsActive
       value: 1
