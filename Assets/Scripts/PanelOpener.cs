@@ -5,22 +5,20 @@ using UnityEngine;
 public class PanelOpener : MonoBehaviour
 {
     public GameObject Panel;
+    public float SecondsToClosePanel = 3f;
     public void OpenPanel()
     {
         if(Panel != null)
         {
             Panel.SetActive(true);
+            StartCoroutine(ClosePanel());
         }
     }
-    //// Start is called before the first frame update
-    //void Start()
-    //{
-        
-    //}
 
-    //// Update is called once per frame
-    //void Update()
-    //{
-        
-    //}
+	IEnumerator ClosePanel()
+	{
+		yield return new WaitForSeconds(SecondsToClosePanel);
+		Panel.SetActive(false);
+	}
+
 }
