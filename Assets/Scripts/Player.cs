@@ -11,6 +11,8 @@ public class Player : MonoBehaviour
     public Action<TransportPoint> OnPlayerTeleported;
     private TransportPoint currentPoint;
 
+    public Material entrance, frontGarden, gardenHouse, midGarden;
+
 
     private void Awake()
     {
@@ -26,6 +28,34 @@ public class Player : MonoBehaviour
     public void Transport(TransportPoint point)
     {
         currentPoint = point;
+
+        //switch (currentPoint.tag)
+        //{
+        //    case "Untagged":
+        //        Debug.LogWarning("Found tag: Untagged");
+        //        break;
+        //    case "Entrance":
+        //        Debug.LogWarning("Found tag: Entrance");
+        //        RenderSettings.skybox = entrance;
+        //        break;
+        //    case "FrontGarden":
+        //        Debug.LogWarning("Found tag: FrontGarden");
+        //        RenderSettings.skybox = frontGarden;
+        //        break;
+        //    case "GardenHouse":
+        //        Debug.LogWarning("Found tag: GardenHouse");
+        //        RenderSettings.skybox = gardenHouse;
+        //        break;
+        //    case "MidGarden":
+        //        Debug.LogWarning("Found tag: MidGarden");
+        //        RenderSettings.skybox = midGarden;
+        //        break;
+        //    default:
+        //        Debug.LogWarning("default case hit");
+        //        break;
+        //}
+
+            
 
         if (blackCanvas != null)
             StartCoroutine(CommenceTransport(point.transform.position + point.transportOffset, point.transform.rotation));

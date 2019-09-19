@@ -13,6 +13,7 @@ public class TransportPoint : MonoBehaviour
     [Range(1f, 5f)]
     public float gazeTime = 2f;
 
+    LineRenderer lineRenderer;
     ParticleSystemRenderer particle;
     Renderer mRenderer;
     bool isGazedAt = false;
@@ -21,6 +22,8 @@ public class TransportPoint : MonoBehaviour
     private void Start()
     {
         particle = GetComponent<ParticleSystemRenderer>();
+        lineRenderer = GetComponentInChildren<LineRenderer>();
+
         mRenderer = GetComponent<Renderer>();
         SetGazedAt(false);
         Player.Instance.OnPlayerTeleported += OnPlayerTeleported;
@@ -58,21 +61,27 @@ public class TransportPoint : MonoBehaviour
         else
         {
             if (gazedAt)
+            {
                 mRenderer.material.color = highlightColor;
+                lineRenderer.startColor = highlightColor;
+            }
             else
+            {
                 mRenderer.material.color = normalColor;
+                lineRenderer.startColor = normalColor;
+            }
         }
     }
 
     public void TransportToPoint()
     {
-        Player.Instance.Transport(this); 
+        Player.Instance.Transport(this);
     }
 
     void OnPlayerTeleported(TransportPoint point)
     {
         SetGazedAt(false);
-        if(point == this)
+        if (point == this)
             gameObject.SetActive(false);
         else
             gameObject.SetActive(true);
@@ -80,17 +89,19 @@ public class TransportPoint : MonoBehaviour
 
     private void Update()
     {
-        if(useGaze && isGazedAt)
+        if (useGaze && isGazedAt)
         {
             currentGazeTimer += Time.deltaTime;
             mRenderer.material.color = Color.Lerp(highlightColor, targetHighlightColor, (currentGazeTimer / gazeTime));
+            lineRenderer.startColor = Color.Lerp(highlightColor, targetHighlightColor, (currentGazeTimer / gazeTime));
 
-            if(currentGazeTimer >= gazeTime)
+            if (currentGazeTimer >= gazeTime)
             {
                 currentGazeTimer = 0f;
                 TransportToPoint();
             }
-        } else
+        }
+        else
         {
             currentGazeTimer = 0f;
         }

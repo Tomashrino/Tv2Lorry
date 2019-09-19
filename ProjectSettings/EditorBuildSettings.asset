@@ -4,5 +4,23 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MetroScene.unity
+    guid: e3ddd5eb09def4fda98b8678ad45ecd5
+  - enabled: 1
+    path: Assets/Scenes/Tv2Lorry/FrontGardenScene.unity
+    guid: dec9e116f7ba846b1ae106dfe3295f1e
+  - enabled: 1
+    path: Assets/Scenes/Tv2Lorry/EntranceScene.unity
+    guid: 8235189ca06f746719b5bdd3e3cc5524
+  - enabled: 1
+    path: Assets/Scenes/Tv2Lorry/GardenHouseScene.unity
+    guid: b27869f194a2f4710916180d95be2991
+  - enabled: 1
+    path: Assets/Scenes/Tv2Lorry/MidGardenScene.unity
+    guid: 1f738eb493a6e4a77b1d9d5bc0be7979
+  - enabled: 1
+    path: Assets/Scenes/Tv2Lorry/StudioScene.unity
+    guid: 1865267106e254d41b9a27a572cb033e
   m_configObjects: {}
