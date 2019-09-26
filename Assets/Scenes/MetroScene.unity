@@ -12749,21 +12749,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 63552758}
     m_Modifications:
-    - target: {fileID: 1945455808626784437, guid: c8ec5787450504d9daae226b53cfdca8,
-        type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 1728983573}
-    - target: {fileID: 1945455808626784437, guid: c8ec5787450504d9daae226b53cfdca8,
-        type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: GoToScene
-      objectReference: {fileID: 0}
-    - target: {fileID: 1945455808626784437, guid: c8ec5787450504d9daae226b53cfdca8,
-        type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1945455808626784435, guid: c8ec5787450504d9daae226b53cfdca8,
         type: 3}
       propertyPath: m_Name
@@ -12874,11 +12859,47 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 1945455808626784437, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1728983573}
+    - target: {fileID: 1945455808626784437, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: GoToScene
+      objectReference: {fileID: 0}
+    - target: {fileID: 1945455808626784437, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
         type: 3}
       propertyPath: m_Text
-      value: Tag Elevator
+      value: Tag metroen til Tv2 Lorry
       objectReference: {fileID: 0}
+    - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_FontData.m_MaxSize
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 620e8a32eed744819883e1a1b0e55636,
+        type: 3}
     - target: {fileID: 1945455808626784438, guid: c8ec5787450504d9daae226b53cfdca8,
         type: 3}
       propertyPath: m_Color.a
@@ -13492,6 +13513,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lorryguy2@Waving
       objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: 6a8629734a5144137a5807d7836cda6b, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 227ae833de824446d806965d77bb06b6, type: 2}
     - target: {fileID: 400014, guid: 6a8629734a5144137a5807d7836cda6b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 23.54
@@ -13548,10 +13573,6 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 5
       objectReference: {fileID: 0}
-    - target: {fileID: 9500000, guid: 6a8629734a5144137a5807d7836cda6b, type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: 227ae833de824446d806965d77bb06b6, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6a8629734a5144137a5807d7836cda6b, type: 3}
 --- !u!1 &2067535740
@@ -13785,21 +13806,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1598692932}
     m_Modifications:
-    - target: {fileID: 1945455808626784437, guid: c8ec5787450504d9daae226b53cfdca8,
-        type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 1728983573}
-    - target: {fileID: 1945455808626784437, guid: c8ec5787450504d9daae226b53cfdca8,
-        type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: GoToScene
-      objectReference: {fileID: 0}
-    - target: {fileID: 1945455808626784437, guid: c8ec5787450504d9daae226b53cfdca8,
-        type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
-      value: 6
-      objectReference: {fileID: 0}
     - target: {fileID: 1945455808626784435, guid: c8ec5787450504d9daae226b53cfdca8,
         type: 3}
       propertyPath: m_Name
@@ -13910,10 +13916,46 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 1945455808626784437, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1728983573}
+    - target: {fileID: 1945455808626784437, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: GoToScene
+      objectReference: {fileID: 0}
+    - target: {fileID: 1945455808626784437, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
         type: 3}
       propertyPath: m_Text
       value: Tag Elevator
+      objectReference: {fileID: 0}
+    - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 620e8a32eed744819883e1a1b0e55636,
+        type: 3}
+    - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_FontData.m_MaxSize
+      value: 111
       objectReference: {fileID: 0}
     - target: {fileID: 1945455808626784438, guid: c8ec5787450504d9daae226b53cfdca8,
         type: 3}

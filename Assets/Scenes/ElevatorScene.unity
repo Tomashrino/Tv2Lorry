@@ -860,6 +860,12 @@ PrefabInstance:
       propertyPath: m_FontData.m_AlignByGeometry
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: b8e01e0ec51404d04b1c5c356946f940,
+        type: 3}
     - target: {fileID: 1945455808788763423, guid: c8ec5787450504d9daae226b53cfdca8,
         type: 3}
       propertyPath: m_LocalPosition.z
@@ -2042,6 +2048,12 @@ PrefabInstance:
       propertyPath: m_FontData.m_AlignByGeometry
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: b8e01e0ec51404d04b1c5c356946f940,
+        type: 3}
     - target: {fileID: 1945455808788763423, guid: c8ec5787450504d9daae226b53cfdca8,
         type: 3}
       propertyPath: m_LocalPosition.z
@@ -3144,6 +3156,12 @@ PrefabInstance:
       propertyPath: m_FontData.m_AlignByGeometry
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: b8e01e0ec51404d04b1c5c356946f940,
+        type: 3}
     - target: {fileID: 1945455808788763423, guid: c8ec5787450504d9daae226b53cfdca8,
         type: 3}
       propertyPath: m_LocalPosition.z
@@ -3784,6 +3802,12 @@ PrefabInstance:
       propertyPath: m_FontData.m_AlignByGeometry
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: b8e01e0ec51404d04b1c5c356946f940,
+        type: 3}
     - target: {fileID: 1945455808788763423, guid: c8ec5787450504d9daae226b53cfdca8,
         type: 3}
       propertyPath: m_LocalPosition.z
@@ -4447,6 +4471,12 @@ PrefabInstance:
       propertyPath: m_FontData.m_AlignByGeometry
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: b8e01e0ec51404d04b1c5c356946f940,
+        type: 3}
     - target: {fileID: 1945455808788763423, guid: c8ec5787450504d9daae226b53cfdca8,
         type: 3}
       propertyPath: m_LocalPosition.z
@@ -5089,6 +5119,12 @@ PrefabInstance:
       propertyPath: m_FontData.m_AlignByGeometry
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: b8e01e0ec51404d04b1c5c356946f940,
+        type: 3}
     - target: {fileID: 1945455808788763423, guid: c8ec5787450504d9daae226b53cfdca8,
         type: 3}
       propertyPath: m_LocalPosition.z
@@ -6237,6 +6273,12 @@ PrefabInstance:
       propertyPath: m_FontData.m_AlignByGeometry
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: b8e01e0ec51404d04b1c5c356946f940,
+        type: 3}
     - target: {fileID: 1945455808788763423, guid: c8ec5787450504d9daae226b53cfdca8,
         type: 3}
       propertyPath: m_LocalPosition.z
@@ -7176,6 +7218,12 @@ PrefabInstance:
       propertyPath: m_FontData.m_AlignByGeometry
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: b8e01e0ec51404d04b1c5c356946f940,
+        type: 3}
     - target: {fileID: 1945455808788763423, guid: c8ec5787450504d9daae226b53cfdca8,
         type: 3}
       propertyPath: m_LocalPosition.z
@@ -8392,6 +8440,12 @@ PrefabInstance:
       propertyPath: m_FontData.m_AlignByGeometry
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: b8e01e0ec51404d04b1c5c356946f940,
+        type: 3}
     - target: {fileID: 1945455808788763423, guid: c8ec5787450504d9daae226b53cfdca8,
         type: 3}
       propertyPath: m_LocalPosition.z
@@ -9165,6 +9219,12 @@ PrefabInstance:
       propertyPath: m_FontData.m_AlignByGeometry
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: b8e01e0ec51404d04b1c5c356946f940,
+        type: 3}
     - target: {fileID: 1945455808788763423, guid: c8ec5787450504d9daae226b53cfdca8,
         type: 3}
       propertyPath: m_LocalPosition.z
@@ -9270,7 +9330,7 @@ MonoBehaviour:
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 12800000, guid: 4eedafad5084240419e649245c7b2093, type: 3}
     m_FontSize: 14
     m_FontStyle: 0
     m_BestFit: 0
@@ -9282,7 +9342,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Choose a video to play next!
+  m_Text: Choose a video to play!
 --- !u!222 &1101356609
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9756,7 +9816,7 @@ PrefabInstance:
     - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
         type: 3}
       propertyPath: m_Text
-      value: Videos
+      value: Videoer
       objectReference: {fileID: 0}
     - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
         type: 3}
@@ -10389,6 +10449,12 @@ PrefabInstance:
       propertyPath: m_FontData.m_AlignByGeometry
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: b8e01e0ec51404d04b1c5c356946f940,
+        type: 3}
     - target: {fileID: 1945455808788763423, guid: c8ec5787450504d9daae226b53cfdca8,
         type: 3}
       propertyPath: m_LocalPosition.z
@@ -11245,6 +11311,12 @@ PrefabInstance:
       propertyPath: m_FontData.m_AlignByGeometry
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: b8e01e0ec51404d04b1c5c356946f940,
+        type: 3}
     - target: {fileID: 1945455808788763423, guid: c8ec5787450504d9daae226b53cfdca8,
         type: 3}
       propertyPath: m_LocalPosition.z
@@ -12744,6 +12816,12 @@ PrefabInstance:
       propertyPath: m_FontData.m_AlignByGeometry
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: b8e01e0ec51404d04b1c5c356946f940,
+        type: 3}
     - target: {fileID: 1945455808788763423, guid: c8ec5787450504d9daae226b53cfdca8,
         type: 3}
       propertyPath: m_LocalPosition.z
@@ -15308,6 +15386,12 @@ PrefabInstance:
       propertyPath: m_FontData.m_AlignByGeometry
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: b8e01e0ec51404d04b1c5c356946f940,
+        type: 3}
     - target: {fileID: 1945455808788763423, guid: c8ec5787450504d9daae226b53cfdca8,
         type: 3}
       propertyPath: m_LocalPosition.z

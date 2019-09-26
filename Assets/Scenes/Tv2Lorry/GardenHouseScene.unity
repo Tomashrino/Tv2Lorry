@@ -1132,6 +1132,12 @@ PrefabInstance:
       propertyPath: m_Text
       value: "G\xE5 her"
       objectReference: {fileID: 0}
+    - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 620e8a32eed744819883e1a1b0e55636,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c8ec5787450504d9daae226b53cfdca8, type: 3}
 --- !u!1001 &1404573258
@@ -1216,6 +1222,12 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4481728101376654456, guid: bb9592aeb16234acc833b90f3c74bea0,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 620e8a32eed744819883e1a1b0e55636,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bb9592aeb16234acc833b90f3c74bea0, type: 3}
 --- !u!224 &1641440710 stripped
@@ -1520,6 +1532,12 @@ PrefabInstance:
       propertyPath: m_Text
       value: "G\xE5 her"
       objectReference: {fileID: 0}
+    - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 620e8a32eed744819883e1a1b0e55636,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c8ec5787450504d9daae226b53cfdca8, type: 3}
 --- !u!224 &1760586778 stripped
@@ -1685,6 +1703,12 @@ PrefabInstance:
       propertyPath: m_Text
       value: "G\xE5 til d\xF8r"
       objectReference: {fileID: 0}
+    - target: {fileID: 1945455808788763408, guid: c8ec5787450504d9daae226b53cfdca8,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 620e8a32eed744819883e1a1b0e55636,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c8ec5787450504d9daae226b53cfdca8, type: 3}
 --- !u!1 &1838781945
