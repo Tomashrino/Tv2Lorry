@@ -910,7 +910,7 @@ PrefabInstance:
     - target: {fileID: 2597805835287578477, guid: 2221eafad53b340308a95223f1955326,
         type: 3}
       propertyPath: m_Name
-      value: TeleportPoint (2)
+      value: TeleportPoint_Center
       objectReference: {fileID: 0}
     - target: {fileID: 2597805835287578477, guid: 2221eafad53b340308a95223f1955326,
         type: 3}
@@ -1806,7 +1806,7 @@ PrefabInstance:
     - target: {fileID: 2597805835287578477, guid: 2221eafad53b340308a95223f1955326,
         type: 3}
       propertyPath: m_Name
-      value: TeleportPoint
+      value: TeleportPoint_LeftScreen
       objectReference: {fileID: 0}
     - target: {fileID: 2597805835287578476, guid: 2221eafad53b340308a95223f1955326,
         type: 3}
@@ -2310,7 +2310,7 @@ PrefabInstance:
     - target: {fileID: 2597805835287578477, guid: 2221eafad53b340308a95223f1955326,
         type: 3}
       propertyPath: m_Name
-      value: TeleportPoint (3)
+      value: TeleportPoint_MainScreen
       objectReference: {fileID: 0}
     - target: {fileID: 2597805835287578477, guid: 2221eafad53b340308a95223f1955326,
         type: 3}
@@ -3090,7 +3090,7 @@ PrefabInstance:
     - target: {fileID: 59415678574884692, guid: 713364f731368459ba659cee841d53c2,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 59415678574884681, guid: 713364f731368459ba659cee841d53c2,
         type: 3}
@@ -4582,7 +4582,7 @@ PrefabInstance:
     - target: {fileID: 2597805835287578477, guid: 2221eafad53b340308a95223f1955326,
         type: 3}
       propertyPath: m_Name
-      value: TeleportPoint (1)
+      value: TeleportPoint_RightScreen
       objectReference: {fileID: 0}
     - target: {fileID: 2597805835287578476, guid: 2221eafad53b340308a95223f1955326,
         type: 3}
