@@ -3006,8 +3006,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Velkommen til Studiet. \nHer kan du finde information Cityringen.\nKig
-    blot p\xE5 det \xF8nskede emne, s\xE5 finder vi information til dig."
+  m_Text: "Velkommen til Studiet. \nHer kan du finde information om Cityringen.\nKig
+    blot p\xE5 det \xF8nskede emne, s\xE5 finder vi det frem til dig."
 --- !u!222 &378395005
 CanvasRenderer:
   m_ObjectHideFlags: 0
